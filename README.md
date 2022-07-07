@@ -1,6 +1,6 @@
 # HerSEOn Code Refactoring
 
-## HTML, CSS Refactoring
+## HTML, CSS amd SEO Refactoring
 
 ### HTML
 
